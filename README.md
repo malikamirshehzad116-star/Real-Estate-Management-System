@@ -57,3 +57,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Project Name: Real Estate Management System
+
+Output ScreenShorts:
+
+Screenshort 1:
+<img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/f788d826-64c4-48d6-b693-449d0049e93e" />
+
+ScreenShort 2:
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/6abd554b-8b4f-42fc-ba30-a0fb30ba4132" />
+
+ScreenShort 3:
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/f4b7492a-e2b1-44bd-9913-61975aa70164" />
+
+ScreenShort 4:
+<img width="1600" height="900" alt="4" src="https://github.com/user-attachments/assets/20c77842-72d2-4c4c-b541-9c877703d917" />
+
+ScreenShort 5:
+<img width="1600" height="900" alt="5" src="https://github.com/user-attachments/assets/38dc7aff-5eb1-4cd4-829d-2a8596f4a265" />
+
